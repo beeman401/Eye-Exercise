@@ -16,10 +16,5 @@
   <li>Looking at having the eyeballs track individually</li>
   <li>Change Color of Eyes</li>
 </ul>
-<h2>Contributors</h2>
-<ul>
-  <li>Brian Miner - Student</li>
-  <li>Dr. John Williams - MIT</li>
- </ul>
 <h2>License</h2>
   <p>See Attached MIT License</p>
