@@ -1,6 +1,5 @@
 # Eye Tracking Exercise
-<p>Full Stack Development with MERN Certification: Week 8 Exercise .</p>
-<img src="./eyes.jpg"/>
+<p>Full Stack Development with MERN Certification: Week 8 Eye Tracking Exercise.</p>
 <h2>Features</h2>
 <ol>
 <li>Eyes follows the location of the mouse pointer based on the users movement</li>
