@@ -12,8 +12,8 @@
 <li>Move your mouse pointer across web page</li>
 </ol>
 <h2>Roadmap</h2>
-<p>Looking at having the eyeballs track individually</p>
-<p>Change Color of Eyes</p>
+<li>Looking at having the eyeballs track individually</li>
+<li>Change Color of Eyes</li>
 <h2>Contributors</h2>
 <ul>
   <li>Brian Miner - Student</li>
