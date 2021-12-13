@@ -1,9 +1,9 @@
 # Eye Tracking Exercise
 <p>Full Stack Development with MERN Certification: Week 8 Eye Tracking Exercise.</p>
 <h2>Features</h2>
-<ol>
+<ul>
 <li>Eyes follows the location of the mouse pointer based on the users movement</li>
-</ol>
+</ul>
 <h2>Instructions</h2>
 <ol>
 <li>Fork to your Github page</li>
@@ -12,8 +12,10 @@
 <li>Move your mouse pointer across web page</li>
 </ol>
 <h2>Roadmap</h2>
-<li>Looking at having the eyeballs track individually</li>
-<li>Change Color of Eyes</li>
+<ul>
+  <li>Looking at having the eyeballs track individually</li>
+  <li>Change Color of Eyes</li>
+</ul>
 <h2>Contributors</h2>
 <ul>
   <li>Brian Miner - Student</li>
